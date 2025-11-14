@@ -1,0 +1,9 @@
+Package: com.axs.myinputtoolbar
+Name: MyInputToolBar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Injects a custom toolbar above WeChat input box (demo)
+Maintainer: Axs
+Author: Axs
+Section: Tweaks
+Depends: firmware (>= 16.0)
